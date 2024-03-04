@@ -58,6 +58,7 @@ console.log(numberY);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 let number4 = 4;
 let number5 = x - number4;
 console.log(number5);
