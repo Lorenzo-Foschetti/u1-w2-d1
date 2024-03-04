@@ -49,9 +49,7 @@ let x = 12;
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = " Foschetti ";
 console.log(myName);
-const numberY = 20;
-numberY = 30;
-console.log(numberY);
+// La variabile const è per la'appunto una costante, dunque non ammette alcun tipo di cambio di valore, qualora dovessimo fare un console.log avremmo un errore
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
